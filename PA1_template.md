@@ -278,7 +278,7 @@ summary(daily_steps$total_steps)
 ##      41    9819   10770   10770   12810   21190
 ```
 
-We can see the effects of the imputed data in the histogram and summary statisics.  The histogram shows higher frequency in the center fo the daata.  The min, max, and mean are unchanged, as would be expected, however, the imputed data slightly raise the median, raise the 1st quartile and lower the 3rd quartile.  This makes sense since data was added at the center of the sample distribution.
+We can see the effects of the imputed data in the histogram and summary statisics.  The histogram shows higher frequency in the center fo the data.  The min, max, and mean are unchanged, as would be expected, however, the imputed data slightly raise the median, raise the 1st quartile and lower the 3rd quartile.  This makes sense since data was added at the center of the sample distribution.
 
 ### Are there differences in activity patterns between weekdays and weekends?
 
